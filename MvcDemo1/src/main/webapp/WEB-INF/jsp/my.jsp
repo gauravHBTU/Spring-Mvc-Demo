@@ -1,10 +1,7 @@
 <%-- 
     Document   : my
-<<<<<<< Updated upstream
     Created on : Jun 30, 2018, 2:51:28 PM
-=======
-    Created on : Jun 29, 2018, 2:51:28 PM
->>>>>>> Stashed changes
+	Stashed changes
     Authors     : C2N
 --%>
 
